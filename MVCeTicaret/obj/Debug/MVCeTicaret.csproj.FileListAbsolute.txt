@@ -1,0 +1,374 @@
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll.config
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.pdb
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe.config
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.rsp
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe.config
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.rsp
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.AppContext.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Console.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe.config
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.rsp
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\EntityFramework.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\EntityFramework.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csprojAssemblyReference.cache
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CoreCompileInputs.cache
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CopyComplete
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.dll
+C:\Users\seher.eren\Desktop\ÇALIŞMALAR\14.MVC\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.pdb
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll.config
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.pdb
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe.config
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.rsp
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe.config
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.rsp
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.AppContext.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Console.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe.config
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.rsp
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\EntityFramework.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\EntityFramework.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csprojAssemblyReference.cache
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CoreCompileInputs.cache
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CopyComplete
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.dll
+C:\Users\seher.eren\Desktop\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.pdb
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll.config
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.pdb
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe.config
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.rsp
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe.config
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.rsp
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.AppContext.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Console.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Threading.Thread.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe.config
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.rsp
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csprojAssemblyReference.cache
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CoreCompileInputs.cache
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CopyComplete
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.dll
+C:\Users\seher.eren\Desktop\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.pdb
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll.config
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.pdb
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe.config
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.rsp
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe.config
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.rsp
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.AppContext.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Console.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Compression.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Pipes.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Claims.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Threading.Thread.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.ValueTuple.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe.config
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.rsp
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csprojAssemblyReference.cache
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CoreCompileInputs.cache
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CopyComplete
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.dll
+C:\Users\irem eren\Downloads\BİLGE ADAM\a\Bilge adam\mvccc\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.pdb
+F:\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll.config
+F:\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.dll
+F:\MVCeTicaret\MVCeTicaret\bin\MVCeTicaret.pdb
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.exe.config
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\csc.rsp
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.exe.config
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\csi.rsp
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.AppContext.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Collections.Immutable.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Console.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.Process.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Compression.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.IO.Pipes.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Reflection.Metadata.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.AccessControl.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Claims.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Threading.Thread.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.ValueTuple.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.exe.config
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\vbc.rsp
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe
+F:\MVCeTicaret\MVCeTicaret\bin\roslyn\VBCSCompiler.exe.config
+F:\MVCeTicaret\MVCeTicaret\bin\EntityFramework.dll
+F:\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.dll
+F:\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MVCeTicaret\MVCeTicaret\bin\Microsoft.Web.Infrastructure.dll
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.dll
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.dll
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.dll
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.dll
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.dll
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.dll
+F:\MVCeTicaret\MVCeTicaret\bin\EntityFramework.xml
+F:\MVCeTicaret\MVCeTicaret\bin\EntityFramework.SqlServer.xml
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Razor.xml
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.xml
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Deployment.xml
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Webpages.Razor.xml
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Helpers.xml
+F:\MVCeTicaret\MVCeTicaret\bin\System.Web.Mvc.xml
+F:\MVCeTicaret\MVCeTicaret\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csprojAssemblyReference.cache
+F:\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.csproj.CopyComplete
+F:\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.dll
+F:\MVCeTicaret\MVCeTicaret\obj\Debug\MVCeTicaret.pdb

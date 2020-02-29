@@ -1,0 +1,152 @@
+﻿@model MVCeTicaret.Models.Product
+
+@{
+    ViewBag.Title = "ProductDetail";
+}
+
+<div class="container">
+    <div class="row" style="margin-top:40px;">
+
+        <div class="col-md-6" style="margin-top:25px;">
+            <img src="@Url.Content(Model.ImageUrl)" alt="@Url.Content(Model.AltText)" class="img-thumbnail" />
+        </div>
+
+        <div class="col-md-6">
+            <h3>@Model.Name</h3>
+            @{
+                for (int i = 0; i < 5; i++)
+                {
+                    <span class="glyphicon glyphicon-star" style="font-size:17pt;"></span>
+                }
+            }
+
+            <br /><br /><br />
+
+            <p class="lead">
+                <strong>Fiyatı: </strong> @string.Format("{0:C2}", Model.UnitPrice)
+            </p>
+            <p class="lead">
+                <span style="background-color:lightgray;">
+                    <strong>Stok Miktarı: </strong>@Model.UnitInStock @Model.QuantityPerUnit
+              </span>
+            </p>
+
+            @using (Html.BeginForm("AddToCart", "Shopping", new { id = Model.ProductID }, FormMethod.Post))
+            {
+                <p class="lead">
+                    <strong>Miktar: </strong>
+                    @{
+                        if (Model.UnitInStock == 0)
+                        {
+                            <input type="number" name="quantity" value="0" min="0" max="@Model.UnitInStock" onchange="denetle(this, @Model.UnitInStock)" />
+                        }
+                        else
+                        {
+                            <input type="number" name="quantity" value="1" min="1" max="@Model.UnitInStock" onchange="denetle(this, @Model.UnitInStock)" />
+                        }
+                    }
+                </p>
+
+                <br /><br />
+
+                        if (Model.UnitInStock == 0)
+                        {
+                    <button type="submit" disabled class="btn btn-success btn-lg">Sepete Ekle</button>
+                        }
+                        else
+                        {
+                    <button type="submit" class="btn btn-success btn-lg">Sepete Ekle</button>
+                        }
+
+                        //TODO: Offline'ken ekleyemesin...
+
+                <a href="@Url.Action("Wishlist", "Shopping", new { id = Model.ProductID })" class="btn btn-lg btn-warning">İstek Listesine Ekle</a>
+                        }
+        </div>
+    </div>
+
+    <hr />
+
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4">
+            <ul class="nav nav-tabs">
+                <li class="active">
+                    <a href="#description" data-toggle="tab">Ürün Açıklaması</a>
+                </li>
+                <li>
+                    <a href="#reviews" data-toggle="tab">Yorumlar</a>
+                </li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane fade in active" id="description" style="margin-top:20px;">
+                    @Html.Raw(Model.LongDescription)
+                </div>
+                <div class="tab-pane fade" id="reviews" style="margin-top:20px;">
+                    <ul>
+                        @{
+                            if ((ViewData["Reviews"] as IEnumerable<MVCeTicaret.Models.Review>).Count() == 0)
+                            {
+                                <li class="list-unstyled">Bu ürün hakkında yorum yapılmamıştır...</li>
+                            }
+                            else
+                            {
+
+                                foreach (var item in ViewData["Reviews"] as IEnumerable<MVCeTicaret.Models.Review>)
+                                {
+                                <li>
+                                    <p><strong>@item.Name</strong></p>
+                                    <p>@item.Comment</p>
+                                </li>
+                                    }
+                                }
+                            }                        
+                    </ul>
+
+                    @{ 
+                        if(Session["OnlineKullanici"] !=null)
+                        {
+                            <hr />
+                            <h4>Yorum Ekle</h4>
+                            <hr />
+
+                            using (Html.BeginForm("AddReview", "Product", new { id = Model.ProductID }, FormMethod.Post))
+                            {
+                                <p>
+                                    <strong>Ürünü Oyla</strong>
+                                    <input type="number" value="5" min="1" max="5" class="form-control" name="rate" onchange="denetle(this,5)"/>  @*Burada aşagıda yazdığımız denetle function unu çalıştırıyoruz 5 limit veriyoruz*@
+                                </p>
+
+                                <p>
+                                    <strong>Adınız: </strong>
+                                    <input type="text" name="name" class="form-control" />
+                                </p>
+
+                                <p>
+                                    <strong>Yorumunuz: </strong>
+                                    <textarea rows="3" name="review" class="form-control"></textarea>
+                                </p>
+
+                                <input type="submit" class="btn btn-info form-control" value="EKLE" /> 
+
+
+                            }
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts {
+    <script>
+        function denetle(inputElement, maxValue) {
+            var value = $(inputElement).val();
+            if (value > maxValue)
+                $(inputElement).val(maxValue);
+
+            if (value < 0)
+                $(inputElement).val(0);
+        }
+    </script>
+}

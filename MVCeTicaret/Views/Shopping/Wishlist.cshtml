@@ -1,0 +1,66 @@
+﻿
+@model IEnumerable<MVCeTicaret.Models.Wishlist>
+@*//istek listesi tablosuna erişşiyoruz ıenumerable listesi oalrak*@
+
+@{
+    ViewBag.Title = "Wishlist";
+}
+
+<h2>İstek Listeniz</h2>
+
+<table class="table table-bordered" style="text-align:center; border-radius:8px;">
+    <thead>
+        <tr>
+            <td>Listeden Çıkar</td>
+            <td>Ürün Görseli</td>
+            <td>Ürün Adı</td>
+            <td>Ürün Fiyatı</td>
+            <td>Stok Miktarı</td>
+            <td>Sepete Ekle</td>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @* TODO: Link eklemeyi unutma *@
+                        <a href=" @Url.Action("RemoveFromWishlist","Shopping",new { id = item.WishlistID})" style="font-size:20pt;">
+                            <span class="glyphicon glyphicon-trash" style="color:red;"></span>
+                        </a>
+                    </td>
+
+                    <td>
+                        <img src="@Url.Content(item.Product.ImageUrl)" alt="@Url.Content(item.Product.AltText)" class="img-thumbnail" style="height:100px;" />
+                    </td>
+
+                    <td> @item.Product.Name</td>
+
+                    <td> @string.Format("{0:C2}", item.Product.UnitPrice) </td>
+
+                    <td> @item.Product.UnitInStock @item.Product.QuantityPerUnit </td>
+
+                    <td>
+                        @{
+                            if (item.Product.UnitInStock == 0)
+                            { <a disabled style="font-size:20pt;">
+                                    <span class="glyphicon glyphicon-shopping-cart" style="font-size:17pt; color:lightgray;"></span>
+                                </a>
+                            }
+                            else
+                            {
+                                <a href="@Url.Action("AddToCartFromWishlist","Shopping",new { id = item.WishlistID })" , style="font-size:20pt;">
+                                    <span class="glyphicon glyphicon-shopping-cart" style="font-size:17pt; color:orange;"></span>
+                                </a>
+                            }
+                        }
+                    </td>
+
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>
+

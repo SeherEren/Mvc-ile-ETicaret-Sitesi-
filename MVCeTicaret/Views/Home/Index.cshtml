@@ -1,0 +1,111 @@
+﻿@model MVCeTicaret.Models.Product
+    @{
+        ViewBag.Title = "Index";
+    }
+
+
+    <div class="row" style="margin-top:40px;">
+
+        <h2>Önerilerimiz</h2>
+      
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active">
+                <a href="#KADIN" aria-controls="KADIN" role="tab" data-toggle="tab">Kadın Güneş Gözlükleri</a>
+            </li>
+
+            <li role="presentation" >
+                <a href="#ERKEK" aria-controls="ERKEK" role="tab" data-toggle="tab">Erkek Güneş Gözlükleri</a>
+            </li>
+
+            <li role="presentation" >
+                <a href="#ÇOCUK" aria-controls="ÇOCUK" role="tab" data-toggle="tab">Çocuk Güneş Gözlükleri</a>
+            </li>
+        </ul>
+        <br />
+
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane fade in active" id="KADIN">
+
+                @{
+                    foreach (var item in TempData["KADIN"] as IEnumerable<MVCeTicaret.Models.Product>)
+                    {
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <img src="@Url.Content(item.ImageUrl)" alt="@Url.Content(item.AltText)" />
+                                <div class="caption">
+                                    <h5 style="height:50px; ">
+                                        @item.Name - @string.Format("{0:C2}", item.UnitPrice)
+                                    </h5>
+                                    <p style="height:60px;overflow:auto;">
+                                        @item.ShortDescription
+                                    </p>
+                                    <p>
+                                        @Html.ActionLink("Ürün Detayı", "ProductDetail", "Product", new { id = item.ProductID }, new { @class = "btn btn-warning form-control" })
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+
+
+
+            <div role="tabpanel" class="tab-pane fade " id="ERKEK">
+
+                @{
+                    foreach (var item in TempData["ERKEK"] as IEnumerable<MVCeTicaret.Models.Product>)
+                    {
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <img src="@Url.Content(item.ImageUrl)" alt="@Url.Content(item.AltText)" />
+                                <div class="caption">
+                                    <h5 style="height:50px; ">
+                                        @item.Name - @string.Format("{0:C2}", item.UnitPrice)
+                                    </h5>
+                                    <p style="height:60px;overflow:auto;">
+                                        @item.ShortDescription
+                                    </p>
+                                    <p>
+                                        @Html.ActionLink("Ürün Detayı", "ProductDetail", "Product", new { id = item.ProductID }, new { @class = "btn btn-warning form-control" })
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+
+
+            <div role="tabpanel" class="tab-pane fade" id="ÇOCUK">
+                @{
+                    foreach (var item in TempData["ÇOCUK"] as IEnumerable<MVCeTicaret.Models.Product>)
+                    {
+                        <div class="col-md-3">
+                            <div class="thumbnail">
+                                <img src="@Url.Content(item.ImageUrl)" alt="@Url.Content(item.AltText)" />
+                                <div class="caption">
+                                    <h5 style="height:50px; ">
+                                        @item.Name - @string.Format("{0:C2}", item.UnitPrice)
+                                    </h5>
+                                    <p style="height:60px;overflow:auto;">
+                                        @item.ShortDescription
+                                    </p>
+                                    <p>
+                                        @Html.ActionLink("Ürün Detayı", "ProductDetail", "Product", new { id = item.ProductID }, new { @class = "btn btn-warning form-control" })
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+
+        </div>
+
+        </div>
+    
+ 
+
+
+

@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MVCeTicaret.Models.Product>
+@{
+    ViewBag.Title = "Product";
+}
+
+
+<div class="container">
+    <div class="row" style="margin-top:40px;">
+        @{ 
+            foreach (var item in Model)
+            {
+                <div class="col-md-5">
+                    <div class="thumbnail">
+                        <img src="@Url.Content(item.ImageUrl)" alt="@Url.Content(item.AltText)" />
+                        <div class="caption">
+                            <h5 style="height:50px; ">
+                                @item.Name - @string.Format("{0:C2}",item.UnitPrice)
+                            </h5>
+                            <p style="height:60px;overflow:auto;"> @* overflow tasma olan yerlere otomatik olarak scrollbar ekler,hidden gizler *@
+                                    @item.ShortDescription
+                            </p>
+                            <p>
+                                @Html.ActionLink("Ürün Detayı","ProductDetail",new { id=item.ProductID}, new { @class="btn btn-warning form-control"})
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>
+
+
